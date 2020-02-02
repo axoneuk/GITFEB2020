@@ -8,4 +8,8 @@ public class Main {
         // write your code here
         System.out.println("?Hi");
     }
+
+    public void doSomething(){
+
+    }
 }
