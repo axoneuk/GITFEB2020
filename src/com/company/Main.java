@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         // write your code here
         // write your code here
+        System.out.println("?Hi");
     }
 }
